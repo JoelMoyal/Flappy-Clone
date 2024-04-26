@@ -9,7 +9,7 @@ Self-made Flappy Bird Clone in Unity3D
 
 ![GIF](Assets/flappy.gif)
 
-## Features
+## :computer: Features
 - Full-function game 
 - Desktop Version 
 - Web Version
@@ -30,7 +30,7 @@ Self-made Flappy Bird Clone in Unity3D
 1. UnityHub
 2. Unity
 
-## Download Code
+## :file_folder: Download Code
 1. Clone the repository:
 ```bash
  git clone https://github.com/JoelMoyal/Flappy-Clone.git
@@ -40,6 +40,4 @@ Self-made Flappy Bird Clone in Unity3D
 1. Open UnityHub
 2. Download version:` 2022.3.24f1 ` to open this project
 3. Open with the correct version Unity.
-
-
 
