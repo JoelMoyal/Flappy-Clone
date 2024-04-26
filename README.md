@@ -17,7 +17,7 @@ Self-made Flappy Bird Clone in Unity3D
 - Infinite game, progressively gets quicker
 
 
-## Play the Game
+##  :space_invader: Play the Game
 ### Option 1: Web Browser
 
  [Click here to play!](https://play.unity.com/mg/other/webgl-builds-401239)
