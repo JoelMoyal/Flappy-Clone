@@ -24,7 +24,7 @@ Self-made Flappy Bird Clone in Unity3D
 ### Option 2: Run exe
 1. [See download the code section](#download-code) to get local repository on your machine.
 2. From the root of the local repository, run ` FlappyClone Run/Flappy Clone `
-## Open the Game
+## :floppy_disk: Open the Game
 
 ## Prerequisites:
 1. UnityHub
