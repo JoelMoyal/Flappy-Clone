@@ -10,7 +10,7 @@ Self-made Flappy Bird Clone in Unity3D
 ![GIF](Assets/flappy.gif)
 
 ## :computer: Features
-- Full-function game 
+- Fully-functional game 
 - Desktop Version 
 - Web Version
 - Score counter 
