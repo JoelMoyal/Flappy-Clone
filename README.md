@@ -20,7 +20,7 @@ Self-made Flappy Bird Clone in Unity3D
 ##  :space_invader: Play the Game
 ### Option 1: Web Browser
 
- [Click here to play!](https://play.unity.com/mg/other/webgl-builds-401239)
+ [Click here to play!](https://play.unity.com/en/games/98aa4ce9-ef0c-4221-8c98-142e5b3b40da/flappy-clone)
 ### Option 2: Run exe
 1. [See download the code section](#download-code) to get local repository on your machine.
 2. From the root of the local repository, run ` FlappyClone Run/Flappy Clone `
